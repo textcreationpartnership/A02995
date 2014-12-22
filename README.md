@@ -32,7 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-An excellent ditty made vpon the great victory, vvhich the French king obtayned against the Duke de 
+
+1. An excellent Ditty made vpon the great victory, vvhich the French
+king obtayned a•ain•• the Duke de Maine, and the Romiſh Revels in his kingdome,
+vpon Aſhwedneſday being the fourth day of March laſt paſt. 1590.
+
 **Types of content**
 
   * There are 98 **verse** lines!
